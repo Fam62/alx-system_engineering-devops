@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pa  awk '{ORS=(NR>2&&NF?"/,":"\n")}'
+ls -m | tr '\n' ','
