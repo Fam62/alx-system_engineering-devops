@@ -7,3 +7,4 @@
 6. The file iacta will be in the working directory
 7. shell script that creates a file name
 8. script that write into a file
+9. duplicate_last_line
