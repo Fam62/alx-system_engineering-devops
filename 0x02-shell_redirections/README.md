@@ -8,3 +8,4 @@
 7. shell script that creates a file name
 8. script that write into a file
 9. duplicate_last_line
+10. script that deletes all the regular files
