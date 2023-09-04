@@ -6,3 +6,4 @@
 5. Display the first 10 lines of /etc/passwd 
 6. The file iacta will be in the working directory
 7. shell script that creates a file name
+8. script that write into a file
