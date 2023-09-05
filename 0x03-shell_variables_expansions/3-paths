@@ -1,0 +1,1 @@
+echo $((`echo $ PATH | grep -a ":/" | wc -|` + 1))
