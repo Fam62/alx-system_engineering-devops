@@ -5,3 +5,7 @@
 4. Display the last 10 lines of /etc/passwd
 5. Display the first 10 lines of /etc/passwd 
 6. The file iacta will be in the working directory
+7. shell script that creates a file name
+8. script that write into a file
+9. duplicate_last_line
+10. script that deletes all the regular files
